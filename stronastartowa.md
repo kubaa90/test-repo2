@@ -13,4 +13,6 @@ nsvns
 nusdvsouv
 iaecybev
 
+tekst dodany w branch testowybranch2
+
 [Link to Google](http://www.google.com)
