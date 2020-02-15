@@ -15,4 +15,6 @@ iaecybev
 
 tekst dodany w branch testowybranch2
 
+tekst dodany przy drugim commitowaniu
+
 [Link to Google](http://www.google.com)
